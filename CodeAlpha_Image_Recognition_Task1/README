@@ -21,8 +21,7 @@ This project focuses on building a convolutional neural network (CNN) to recogni
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/rock-paper-scissors-classifier.git
-
+git clone https://github.com/lionheart27786/CodeAlpha_tasks/tree/main/CodeAlpha_Image_Recognition_Task1
 # Navigate to the project directory
 cd rock-paper-scissors-classifier
 
