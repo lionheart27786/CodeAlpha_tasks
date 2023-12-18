@@ -2,7 +2,7 @@ Certainly! Here's a sample README file that you can include in your GitHub repos
 
 ---
 
-# Rock Paper Scissors Classifier
+# Image Recognition Task_1
 
 This repository contains code for a deep learning model to classify rock, paper, and scissors hand gestures using TensorFlow and Keras. The model is trained on a dataset of hand gesture images, and data augmentation is employed to enhance the model's generalization.
 
@@ -26,7 +26,7 @@ This project focuses on building a convolutional neural network (CNN) to recogni
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-classifier.git
+   git clone https://github.com/lionheart27786/CodeAlpha_tasks.git
    ```
 
 2. Navigate to the project directory:
@@ -63,7 +63,7 @@ This project focuses on building a convolutional neural network (CNN) to recogni
 3. Run the Jupyter Notebook to explore the dataset and train the model:
 
    ```bash
-   jupyter notebook rock_paper_scissors_classifier.ipynb
+   jupyter notebook Image_Recognition_Task_1.ipynb
    ```
 
 ## Data
@@ -90,12 +90,4 @@ The model is trained using the augmented training set. Training involves multipl
 
 After training, the model's performance and accuracy can be observed by analyzing the training history and validation results. Evaluate the model on test data to assess its real-world performance.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or submit pull requests!
-
----
-
-Replace placeholders such as `your-username` in URLs with your actual GitHub username. Additionally, include any specific details about the project, its dependencies, or usage that are not covered in this generic template.
