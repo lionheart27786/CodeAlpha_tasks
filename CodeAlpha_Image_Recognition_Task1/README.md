@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file that you can include in your GitHub repository. Please customize it as needed to provide more specific details about your project:
-
----
 
 # Image Recognition Task_1
 
